@@ -1,16 +1,16 @@
 #To edit and compare internal_properties, use WINDEV integrated tools.
 #Internal properties refer to the properties of controls in windows, reports, etc.
 info :
- name : FEN_ARenommer
+ name : FEN_Renommée
  major_version : 28
  minor_version : 0
  type : 2
  description : ""
  subtype : 0
 window :
- name : FEN_ARenommer
- identifier : 0x235115f600af01f5
- internal_properties : CAAAAAgAAAAeGrwYtJ78tKvLM1eYKCHC3HJk/aBLNvu08IhCnzTfE8DNJOJEZauPSb9sK6+qy2jrWnHROmIIM2CL9SQzw1RbYVThIitG40CfRxQOlyGZVK7dsJRvuLKlJ2JxOtxmsoh8li6+u89ZPZELC6Dcw+8/NvXtqUEFxL8COTOQdlF/8fsPSC8/5Ehsb25MFuvCE4FlBSszVz0ULMl2j2u1YjunSHiEz4zNGqYOgAddg44OAUyNnEAVr7VXgJInMMaXtOAxv9xy621915/C5aY1D7Mo8ojzQlIRjSG4ts7Slqy251m60vgtjVONp6tqZ2fpOA70AGYxJMmTEbqq3VuP4x8qaFl5JyWEh2vTbAivYX3Ax0lwPSftyVeoX61cz6tApuXPB2gg/bf7fo7vRUex8pNwaqbdNuOfqs7po0cDvs8j1y9dBDzo9PxCuhyP/8kT3Y5ckKCTwPACg7XXuyCVtqx8nzmhcsSxm0/d0pSn2TFfYiA4MJA9+wku28/VbZmPNFZqVBQhtPhSnoHwAArXzb6wovLWXXfBwmuiCKgTglYEl2iPXVVbaRjWk5V+VcZ2OKGvwRGYAeXwMl71T7dhpxNdimrIamKBsjLRNASOhg1GXFwoyv5AkyK68LjSjpGMQkLAzQDyXmyelB7A6kUJLf4VK+8=
+ name : FEN_Renommée
+ identifier : 0x2351405600f587bd
+ internal_properties : CAAAAAgAAAAT14oYDt7XC4COnFepe+9AHa1WQRBI+4vn73gysttlzTmHk72AdxhKae8Zqzl9nr7rVihkUD6qPtKQI9CrKyORoG7YwHjr2Mu/6jkiwbDxJpHzEANV57V05lszAk9UiqAKNQmwttpSmUAhEfYIhapldYoIFbjV6wu/8Rx1sDixUTaXJlbaU5sA7RAwpr9Z+nBNd24gkuxVPVUKmliofxZTE7c0rNn+usk3kcx4RpcoxuZTzL3bjtkOpH79Du7d0jNicAEevwz+UvWdxK4Cgikf9aiiGdr4/nUBxb7fUG5wLuQIXwOWyt0tyQWkGsU0L4lBvKYv7dzlONVVih1hzE9Jm7qp7T8rYKFqkiMlBzg00P4FvZ1nIk7sQJttDzclGqbMyk4UDdDCYpOdRn2vv29TMW8Dso1mI3Q4mwb1UrRtnLB4bHbmZzlQ/QqgHUviZ7exjVwhLLM/kZZ7ODy9y26HHurT+mJgjPdEVEXd+XztxRPdaAqdMGSeOkeUvWFIXGmpZfQzhuUVyiyye6j3NnTvHVEk8fHKSYGQy/PnbdeGJ2w81/LoDRXSgGuVLYrJCJ+xfFIumeCqCcN6I+REJCekKQHIDa00S0Q/YuDnFWVL/rJtrM4rJo7fA3gJMtgTZwjMfUGqgtbyAxKkbC1PJ0A5PIKLgrI=
  properties :
   width : 800
   height : 600
@@ -19,7 +19,7 @@ window :
  controls :
   -
     name : BTN_Origine
-    identifier : 0x2351160200fa31a0
+    identifier : 0x2351405600f687bd
     internal_properties : CAAAAAgAAAAiXWCMqhIVfZHEu+bgm4mgXRfpmV+LHNx/UkA4aZcOT2U3IR4bt9IKE5FHOWi5dBWRfPZqGkkZyaKk3d+ioEsqVcnplYXAeIj/x8ERTw2SJ2Dz9QE1fHA1EJ2tkWxugGweQmj5cnkp0ahSBCRtz3Dw+41bAkKOUgaPFRxmrv/hRRN13Mf9KKwAk28f/4ZjgOwWAnshaF6kcxm/0ZumIDHhdP/N70j5qOi9rfdbtCioOH/0JuWYmYCU2x8URuJKEeY4FSXlOBSTPoRHcOU8jq4vxtk64sryA+If64zZs2fdcyM+bbZch2DTaw4wYH3g71wYrGDS+MaTrzSz+O6rFqshfc+OZ/3grcr4guuV0gOqpO1FTtFUXPdsSDFJbI5mq9D67loCWiExkLr6UuROnAKqgj8ToSTGqH0VRmo5sm+KXMdpUO//lEtkFWdcNAvP1+wb4f8L0Bvte7Cd/T7F6GWzsWWmVU9L/e76iUSG+9cxpNNNrpwT44ttxmoi3rHx1hpdXoydpT/yF4G0nPSv1VVNawamgUd5yvMOhuzeLB40BGtl0YuPCTY15wx74ACcr1saJJLSTbBRrGetB2ns3idAeKoMc6Nrrh3ygJ+Lg+0rOgqK4U48dK/Rnnb4DMxFIjoW5V+q2ZIvrlPXISsg4A6GfeR8xHLuFf6iOtl1aKhNjp9lNGF7Uh4yPVyzUZSZ/FH3vVetDMiu2Y62uDRXR+ScKAojrYsT/QbnUpay0WtGXeyK+Qp+EvBgIJBgOiIPGR+7727M4LquqBBq5uxPXO7NCkoBs2/dROqO6fp49oKZJdbqyOtdHCb816+WRhmMqr4xMQ==
     properties :
      x : 34

@@ -18,7 +18,7 @@ procedure_set :
      name : ProcAModifier
      procedure_id : 1390810448831020402
      type_code : 15
-     code : |1-
+     code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
       // ProcAModifier ()
@@ -33,36 +33,18 @@ procedure_set :
       //
       procédure ProcAModifier()
       
-      //Code origine
-     type : 458752
-   -
-     name : ProcASupprimer
-     procedure_id : 1390810513255807283
-     type_code : 15
-     code : |1+
-      // Résumé : <indiquez ici ce que fait la procédure>
-      // Syntaxe :
-      // ProcASupprimer ()
-      //
-      // Paramètres :
-      //	Aucun
-      // Valeur de retour :
-      // 	Aucune
-      //
-      // Exemple :
-      // <Indiquez ici un exemple d'utilisation>
-      //
-      procédure ProcASupprimer()
+      //Code modifié dans B1
       
+      //Ligne ajoutée dans B1
      type : 458752
    -
-     name : ProcARenommer
+     name : ProcRenommée
      procedure_id : 1391918949825230637
      type_code : 15
      code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
-      // ProcARenommer ()
+      //ProcRenommée ()
       //
       // Paramètres :
       //	Aucun
@@ -72,9 +54,12 @@ procedure_set :
       // Exemple :
       // <Indiquez ici un exemple d'utilisation>
       //
-      procédure ProcARenommer()
+      procédure ProcRenommée()
       
-      //Code origine
+      
+      
+      
+      //Code modifié et déplacé dans B1
      type : 458752
   procedure_templates : []
   property_templates : []

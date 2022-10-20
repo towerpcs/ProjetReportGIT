@@ -19,15 +19,12 @@ project :
     generation_name : ProjetReport.exe
     version : {}
     language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAZX/0Gn6WDNY6GUvhO3VP9nsE3DBj29VPUYme6oPA89fJAf3fZgNRKnlXGXarMK+Mbvs+ID72QkQ==
  elements :
   identifier : 0x435115d600b78592
   elements :
-   -
-     name : ClasseASupprimer
-     identifier : 0x434d26a1025513ac
-     internal_properties : CAAAAAgAAAAhHRkNuufP4O4qTWw2NBE0wVzoiEB2VJNWfWS6M+Ay/jr2sFMHO8Z8y3JsVNwU7NwkLA==
-     physical_name : .\ClasseASupprimer.wdc
-     type : 4
    -
      name : CollAModifier
      identifier : 0x434d26970252ee90
@@ -41,23 +38,11 @@ project :
      physical_name : .\ClasseAmodifier.wdc
      type : 4
    -
-     name : ETAT_ASupprimer
-     identifier : 0x434d240e022504d8
-     internal_properties : CAAAAAgAAADva8fb6JWdThjY7aew3g4QkYy4OJDGhEFCznKqIxACzmqmDAgq0J6uOeDaJu7inhL6eg==
-     physical_name : .\ETAT_ASupprimer.wde
-     type : 3
-   -
      name : ETAT_AModifier
      identifier : 0x434d23df022350bb
      internal_properties : CAAAAAgAAACHg+8z8K0FJjCgRMxuuoQ52aokhCaM49lWvR7NgJN7bUOZwICsFgkWUcgyjhbKtiqSkg==
      physical_name : .\ETAT_AModifier.wde
      type : 3
-   -
-     name : FEN_ASupprimer
-     identifier : 0x434d23c5021ae81d
-     internal_properties : CAAAAAgAAAAoJhAMu+DI059bb1nNsB0cKqsRCbfFcxFW7cIZNt0/qQPTao6foyIxvGNdW9sV7eMtNQ==
-     physical_name : .\FEN_ASupprimer.wdw
-     type : 2
    -
      name : FEN_AModifer
      identifier : 0x434d236301e56c99
@@ -65,35 +50,29 @@ project :
      physical_name : .\FEN_AModifer.wdw
      type : 2
    -
-     name : FEN_ARenommer
-     identifier : 0x435115f600c501f5
-     internal_properties : CAAAAAgAAADySCp+zbryLTXJDzzB0QpkWt1piTmzQ99OR6tiwSLyPvowoWBQqM57Vs03gQH/++3XXw==
-     physical_name : .\FEN_ARenommer.wdw
-     type : 2
-   -
-     name : ETAT_ARenommer
+     name : ETAT_Renommé
      identifier : 0x4351166e00dad55e
      internal_properties : CAAAAAgAAABbNwMHpOHJ0pxgK5Mu069u2VgAWHw2/5tOKx4wMfKgaICwqC26RmiWvWReWtoW4tY+xg==
-     physical_name : .\ETAT_ARenommer.wde
+     physical_name : .\ETAT_Renommé.wde
      type : 3
    -
-     name : ClasseARenommer
+     name : ClasseRenommée
      identifier : 0x4351168800dc3b5b
      internal_properties : CAAAAAgAAACyiOo+DXoybXUJQEIzGuTuwkUBkRGbpTO22eRqaapqVlKo90SbbQs7Fg33wUG/uy2Xnw==
-     physical_name : .\ClasseARenommer.wdc
+     physical_name : .\ClasseRenommée.wdc
      type : 4
    -
-     name : CollARenommer
+     name : CollRenommée
      identifier : 0x435116c600de2f6f
      internal_properties : CAAAAAgAAAAPC2e7iDV9rrhM91d6U6Wn5/CC4swuq4lWjXNbGgmNY5lX2sUG8kTy2UC6Bo5CPrIaGg==
-     physical_name : .\CollARenommer.wdg
+     physical_name : .\CollRenommée.wdg
      type : 7
    -
-     name : CollASupprimer
-     identifier : 0x435116fe00e10732
-     internal_properties : CAAAAAgAAABO1Kb6SXY+cXkNtNQ3M/iFhPfjS/vVDTiCPrJkQ9BEtAjmDPvh3/8vGgH7xU2Df3Fb2w==
-     physical_name : .\CollASupprimer.wdg
-     type : 7
+     name : FEN_Renommée
+     identifier : 0x435115f600c501f5
+     internal_properties : CAAAAAgAAADySCp+zbryLTXJDzzB0QpkWt1piTmzQ99OR6tiwSLyPvowoWBQqM57Vs03gQH/++3XXw==
+     physical_name : .\FEN_Renommée.wdw
+     type : 2
   other_elements : []
   net_assemblies : []
   uwp_api : []

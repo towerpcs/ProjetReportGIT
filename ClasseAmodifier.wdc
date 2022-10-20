@@ -17,6 +17,7 @@ class :
      code : |1+
       ClasseAmodifier est une Classe
       	m_sOrigine est une chaine
+      	m_sAjouté est une chaine
       fin
      type : 131072
   procedures :
@@ -55,36 +56,16 @@ class :
       //
       procédure MéthodeAModifier()
       
-      //Code origine
+      //Code modifié dans B1
      type : 458752
    -
-     name : MéthodeASupprimer
-     procedure_id : 1390809366497305671
-     type_code : 12
-     code : |1+
-      // Résumé : <indiquez ici ce que fait la procédure>
-      // Syntaxe :
-      // MéthodeASupprimer ()
-      //
-      // Paramètres :
-      //	Aucun
-      // Valeur de retour :
-      // 	Aucune
-      //
-      // Exemple :
-      // <Indiquez ici un exemple d'utilisation>
-      //
-      procédure MéthodeASupprimer()
-      
-     type : 458752
-   -
-     name : MéthodeARenommer
+     name : MéthodeRenommée
      procedure_id : 1391918666356798282
      type_code : 12
      code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
-      // MéthodeARenommer ()
+      //MéthodeRenommée ()
       //
       // Paramètres :
       //	Aucun
@@ -94,7 +75,7 @@ class :
       // Exemple :
       // <Indiquez ici un exemple d'utilisation>
       //
-      procédure MéthodeARenommer()
+      procédure MéthodeRenommée()
       
       //Code origine
      type : 458752
