@@ -1,0 +1,158 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_AModifer
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_AModifer
+ identifier : 0x234d236301ac6c99
+ internal_properties : CAAAAAgAAABGe+q2vx8Skk23CtKblfFDZLucrx2JicgFov0QkjroJbnNF38HLF/fhWZktI+GVvpitimXBX2gTinwLHcro6L/ZL64kdPOyOEP/dRG1hppjc+tVUa11Em49ph+0uwtUDcmUF1K4Nw3IeJvEeTzx4NByP9lPrl0y240n88YzcYgGm1QysP+g59BtZb51y5pdlpn6fCq2u/DwqZKPi3z8WneeOtOkzNPhJvyzoJeYLJIA34mGtDPYB8RVeGvS73K3ekdUw47Jm3kvtEwShhsetEzJE/riS4oMkTSU+KIits6tQLEtCeJYxqpfSElmppW/Pf610N6XnzSNXdziBjDDYeYtVz9eGAJAwTqqdLbHjAj3bK65dO3teUXpvU+zBEfJIDrAVuzv7432cxvxll9UtjqhWStBEC+9uMlXXkdgGJS+Cgl/o2uatTB7sG4hUVgVtH0UK287oLJISLvuYRIqqzXN88QiVinGm07gNgcCmzeAH2Rfk8Lhbyqa6/tmua3945ILfmk19eNwBtqovO4/m+hiiD08aFT/0/JEERwbHxS3R/weeaqXzFcHJHbrJW7ddg3EqR+C3/5px4KmrmradcFcwoDQhJ1PcWTXx04JHtesJMwNxYK5Rnwt+iCU9aqo7W+QCRf+3WY0MEunKTsfPVj+t5LPA==
+ properties :
+  width : 800
+  height : 600
+  widthClient : 798
+  heightClient : 568
+ controls :
+  -
+    name : BTN_A_modifier
+    identifier : 0x234d236d01f192ce
+    internal_properties : CAAAAAgAAACkzvuXrSAGcgc9mFhFbHMwhScWaOCfp7KW2knGxDSTSjm6BFH7vCklgexKz9Zq5qySuTaFMjN+ihwQKv2+6yQljayTKcdUnbdbe7pa6xLiIOsShKZ40QTojbQe7p22oC2k8/DJCcK0zzzWJ8FpHYMYVNGPUpI5fswokYOpnHokL+0gHmYIYhDLVICjywMBK64f8D5CxPhfPYVpDP4Rfh4Y+pGfvTloYfHl1owNOUXeQtJcdWa61gLvddGEy+LPizWNO4PJtFkLGgiWXB4XFSJyzzaS8QusbX3VdSpg96h7MkYcIu9Ww4toocYxaP4zpj2eSd2lyEioYZL+6PZAJaMVYtmrF9j2SnVgkmoe88QscYmLnDRJeOu+eQeacTEiqqxttjkInOvbMu9jE1zSBrHSywYxdFyHw7i0HtBy/pxuodjkUihxHAyAEPABUqmaIgZivAxhNa0JcoVUrjXdllrBTfy9IBG+X/Q1xK109eTwB4b7DOkDcvUPBt9AvkEPealSMCkargpF8DxRrKDVfvFgKgXOa4pgEjLu6MMS83Jymagcksfua/Uz0gwgEQLtsvvneuPqJdlRYYYJ9Zo3GOpTJqqNqS5hE5o45EQWlFaSIFSzCz3zStOSIfAeie5j6QP13d3Lr05jHinj9PjFPTLVcL9romHegOOBJZ6tlyMS7TKyn1p8Wlym/2p+pNmADx4aACPC/rjNPZwa8sp+vGHYTStXITWZ7v4CKnNhC9Q1VIa5KAHzWAE6+Qdw3WTy2AnzdQcIhzkxMtE3WI86s/tcfEjuW6Ch8Ml5qQnbjvW4PmOGCV8RnVSDHaUcy8qKaPxanQNDkvY9
+    properties :
+     x : 47
+     y : 68
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         //Code origine
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_A_supprimer
+    identifier : 0x234d237601f9b664
+    internal_properties : CAAAAAgAAAB2MKOUAQPxMq0CqefxXadt/aW24NpvcqhyrveXvo13mL0hpHjeue6d90FggAwuyNheUX6yl9Se6zhwQQWVFIdISU4e5SlPg1S8w11DR8DVKWQhL0A4qpVtNrajDfGqqkbMrJrGlrVxJX57Lc8O7SsqMOooItW9smdZEw0GIQLe6NTd5fi1g+Ar9F8sR52IQZjLs3nWjaR0fHEG60oVcDFqeUDK4S5+sP7YwjXIk8B43tptkFGJyjev86JgxvO6iX2SgTmCp3DabdFxMOI+ZaoYwX1PABaK4f+wMajybR7z9mRFe4JAYaqLgoSmAzMTOT2mtgLphlutMs9I4xMmS54AEty/l7s6JGs9jm98VNn2ZWFiIMW90I8oXCm6AjcElwaO2GmYLyad9pxxcjwVmoB1uQQ5nOQ8XiGYDUy1dj2ev2j4yQygYrcfp5bBVglnudE/BvwGfITyK4fsXcpl2dBNUzJoiyvQfzHoJ0jAdCaeD5YPH+CfPhC5fB+9+eL0Woze0Rtf7HuYv4fEdizWSlzH/Lk+Sk6q07+fkKYElRw8aYjSKfm/dFZPFYOauTux+eBAMxVGPp8Ti5LGzquXqnETFMWpwc6aF0HpCtUl/QeYTOH0Nbs2AtwwVnelH6NsrrnMc71xd20xTp+Ooq9ze+01qe1DvcE/RkCCD4yMIOqSzeQPLQ/AoOFz9zGU2Xr418Tm5eOnes703qoraHiShyKhfkPViUNLiaqyxxu1TYcYhVBMXqTjUdzpuGzmgvZhneIZb0p83M421tJ5FDdWYp4LpRyFZ0Mnjzr8tJaWmN5SERM2DtX/4FgVFNa83dRxPA16UUdvEf5n9g==
+    properties :
+     x : 47
+     y : 119
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_A_renommer
+    identifier : 0x2351161601137cb3
+    internal_properties : CAAAAAgAAAAnQRwl0fF7hAfsm1FLv4V/S1dwIifsawUBxcb209B2SWrSK5cp6F0sFA5p3ckd8/HXLqWJqr95DtF5Rsoac3Y56uvFbMiOFg+hzno27k+kDnyySeFgD/AXUd7CcJfG0Im7JmymYeZVgnGcM+pEubO4bR3uKSOgSMGU7qAz/gnUIuPQMAPukA0m2Vz32pi1PBOW8uCNuhV1oy4rsqEkyTiRhGfheL/XOUVpe2jjJq1XCZVA87wiFwFfF1b+eK1UzX+YI3n67XrEtTEJwvjEE0qm08snxOR0S18Q8aLIC8TLfGp31746nxAfpqhgDV1V9Wc47IIJBKUXfsNMFSEUYfbOzHK7U4l85qtx0tkqOg/O28+UEOUrKkEYgKUM+IXqXxx0iuGo9QAvbgglCLbXTCBD84o94Mb6vM0EQUbHOSI1/mszVt9poew0YqHOOXTAaGiWFS2laV+bBO6D5gmU3i8kqsmp6kDLaGrrCq0bb0dZaqUeqEegBe2e8waWKFGJsUMZlGCqFSKB4P7LfxvlO3fikwj/CQP9IHxaW4Mf+KULmLOF3qT0F9sEGIavbFYyAI/bDvphF74Q2Al9f7q2R2Rm69Sg+o/hmCCoySTO9hYTwTyXoNA7bYlPcaJQvCBH3XJPxogWxND2pSY12XikEkyueHRq9oKm94PhrgdJVWPTULpkdI2KWzHKhxYABXEj/tN4+fdpdXot8Zp/xkBxDLgmr9SMnZQ8XjH9TDoBkfM0h5xQsDLTkQAz9CgwsBRrsdh9EwTScHoW1DLpioGIpCrxgTgHxeNnzxi8RMxgMlg6f4vuMDOdwoaDRhh+U4JjQhekOxkeYK8WJw==
+    properties :
+     x : 47
+     y : 170
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         //Code origine
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAC57dJyj0dAWu58/PH0JDw1Crm9KM3lg0XSaBAQ41WqT06R9JfU0qGK5sHUl8/xHCuvP3y9tLeLLOVaAgM2FjnfwSCRBgXqneLsHogwTYpIXuB1zp2uXtmOXYyGd6i+ek6BBvtJ0ylgF/MxkRipfZWyrlf1LfZU8sRg27m8bznXeLkm/Wj85gzandWxGPmehvC3c5z5YHuRQRk0A5oo8Y9BYw4VI8dt8xVgdEG41p/KPL0W1ttggwAwCbi9hL9mdmp15X88LHjIw7AGfRS/Vcz6mxBkZ2f4SxDQi52Q==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADG0006i3ptxMcUE+O5cGvDhb43eRlY9UEE1z/7izK93v/ToMiwACETQQw4eQhZuJRMFa6SBwwT+zSdDbdc5HEkXDob51ldPFNKsP+0MWY=
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1-
+      
+      //Code origine
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : ProcAModifier
+     procedure_id : 1390808863983984017
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // ProcAModifier ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure ProcAModifier()
+      
+      //Code origine
+     type : 458752
+   -
+     name : ProcASupprimer
+     procedure_id : 1390808936998706818
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // ProcASupprimer ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure ProcASupprimer()
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAARaqIs1pWWTrjJkc2sbefp8NGAHSVvdRgpQIePRe9rhkbpERRVEF+Nx8mIqTxrVGdwHX99jtU=
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x134d235c00065009
+  internal_properties : CAAAAAgAAAAZ++HSz2luvwiNhadWl8v3mh2d0Pq0fCIps02kogrcwVHmCg==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

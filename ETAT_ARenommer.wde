@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : ETAT_ARenommer
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x5351166b00f1cafd
+ internal_properties : CAAAAAgAAAANdgzvyOwSN9SV1SgnA3NgN2Gi8ULTratQT9L4iNsdjxPUvUNG6JEJXVFhcGLTcJ3x/Z4vuklMs73FzxEVjmySpE4Pi6so2OxCA40BTQY3fQkl3gThXcXg+4PhIvEYjGYu3q7y253pYnZs+KW8x7oDKqnfR95nyJkgPul/LJcYbstNXUlVo3LLWDpB3p8gCqx2XObBpivrwFqOKm9kWMgAUm7S8cWftvHIDmMBMlqODEw6I20yp79RY2mbIskCQKqakrbu39V6hnl7/Ma7McUsIuT5CxaKflWLt3pGlvQkuxn3/vv1Q3TVJbzt4q/ULvnUfCf3h7bT1jg5XbprfFQ2O7iLN9/OL8zk2U1iG5GbLYAn5u70SJVeImncI3F9OefBI8N8P1B4HMX5NetgeMHVvahUJ3lPKTQVgAbMF3zuHGBgJTC8VlJzQZ+zEzmOgMOb6/Y2F8mHfytruABlspYLHb76mkd+d6GFoqassqLRcHJiqFg9o+c1sk2VIa+pmFguuEuljQfTPc4qek4CJnC9502xAJQwk3sF293dM/3X8T2jt9c5GlOXkhbYhLcOch63D79N+lODCvpJZGGD3d/hUrxo65VrufsxNAcw/BY93SnXGr52r30j4i3TJfRoUOErZ8v6xXdLNpmWJVVrrB3nr76So9U8n42ZRHKhE/CkPwUbFndrUe/erKPmXCUDRnp22HKvdaevepcBX1+IiDjpGho=
+ languages :
+  - fr-FR
+ blocks :
+  -
+    name : DEBUT_DOCUMENT
+    identifier : 0x5351166b00f4cafd
+    internal_properties : CAAAAAgAAADNDmBiT2dHtNENCh+QNUtlNWlFgPIASVhAAd7yL4wCthU4NV9qBoLcSx5sNM3DUyF/6YjxmM/VtCipnVGgWAx0r+457CInEkn4lGaWzXfVuGPM842sYgs7054dE+dp1l/z1ehsaxI8P8uNm9ObXk1BM/9KS4qfUcjWfBpSRjbJ9Otv9Ce82w/HSTZ8Eiq+xbJXpwXHrPsrxgJya+Eb3+d996FM2T+qGYwBo6w1YvYLvsQVFoG4X6hevNE5t44cjlYrGDM7xtEW
+    properties :
+     width : 180.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes : []
+  -
+    name : HAUT_DE_PAGE
+    identifier : 0x5351166b00f7cafd
+    internal_properties : CAAAAAgAAACVZugFbID0KGWdOiYAtav2TNUSnyc5YYT1eIO0iJJw4/A8r38KJdYx06pW1aGLVOEpGBSDYPagq0Z5dT2LBopcMl+Wkyog6zYcbth40Zypf7i8N158wqYfoYFpeUZApLyHdvpPakjdQtI3R3SrazMXsb8+tOdEZODzTNEW2Plg475djNO1CeNLHB6gzbDJyuI9C3jLxdkQB1HbsTR233QwRfn4op33Z94DweAXBLK0lcEYeQn0uSb8Z5HzNYizHRyS0qz2Ig==
+    properties :
+     y : 10.
+     width : 180.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes : []
+  -
+    name : CORPS
+    identifier : 0x5351166b00facafd
+    internal_properties : CAAAAAgAAAAYvzangshI2hCeg4a7iupnFawhdIyaS3fhk52dLJWFmnwfoF/M7/uImCBRrpYNXK1U+/K+aZ2OZeIMjZ2/kQ8L3WeuaTmDWihayxHQU3BWhGpWB5sr2yr/SIrK4bNqj58I7JJUt2RFNQXfXt3PysM/KpQ6KvSMlF1lS9LYBAhYk+qPTBR0uLuIsLhgRyXO0GMq1p7YIpuSgLXramhdgWjBd4iS+ozC+Iz3n762CUP/LEByLwuF8F9ALg==
+    controls :
+     -
+       name : LIB_SansNom
+       identifier : 0x535116720115e5c9
+       internal_properties : CAAAAAgAAABgj0TwD/IkISaoI/OxfqAWTmUzSCF6p6SPlyxv1CEloHErCoSjPYbPwipqUdvWSS8qAgykiDKOunGPpm3n5xaNAG6yZrXFx4ZVx/+iR3Dt55XBpNszeLvlH2mScdMDAAdlVJJH7jENimgLvxtMULXBiOG8Nt8VSD3rrqkT3WqiNzOYWfiGp7KLNh9NwpV9lKTBL/jzLEhC2y9lrCVyaZ11YEj8Y44NI1ty61PogtQvke8+lq5TX97Elxd7PgyedDT1X6OQNDmHUTcDy9t+dspYyCpkFRcdFzJ6SkJ+4mBRNmerQDN+y7lk6El0tWV1uBIRiPwyvgLV2juomten8jZVPwdx6sw/8se4D+MfX4q94yy7dhUBlJjQ1sZFiBWEdDRxtuuBsfuEjKeT2N3tThw6lLLrFkcOdO5L8j8+QdIKkn4sarfKx8m/8jQS9VypCFfy3fbtpMKkmohB2Q==
+       properties :
+        x : 12.398
+        y : 2.57
+        width : 32.052
+        height : 7.
+       code_elements :
+        type_code : 29
+        p_codes : []
+    properties :
+     y : 20.
+     width : 180.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes : []
+  -
+    name : BAS_DE_PAGE
+    identifier : 0x5351166b00fdcafd
+    internal_properties : CAAAAAgAAAAnMD77rGS4bHnBZsqAtSWJX1CP0jbSUAWhMLLMZ9HpYAdj/nJ+i7toeNPsYKtS6J56wWvB2JfAGMkx94/H6Mn9PZ6JMf9g1NmxoWnLqYQsJWr+gv8nBR1tKTp0ij9I+8t/QkcirHyZ/tbbi7bOPzU/r6tSGSLZa+JYKR7xbVmVG7421zyTNM2nvt7iz6Fk7gB+yhi7x/XEvdt1eGuvUutLvgZdOb72cBk2RVwa2qiyrdmmm3/zO6IEs3WHOZRn4XBYJH6kcA==
+    properties :
+     y : 30.
+     width : 180.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes : []
+  -
+    name : FIN_DOCUMENT
+    identifier : 0x5351166b0100cafd
+    internal_properties : CAAAAAgAAAB2X3/3I1MwcIkKSZC3zgcAxyC4aK849ON7sg2y7ETCFi7yd+7QjjCi4kd+9cAnVOgRzVaHu8nFbURmTHMRyKq58aYjnmLa47+7bm8v6TIXQLJcdLJPzFagxre/oYWO/WLRfa2QC5+rZeAJ8/HNcC0C1fwk7WP0W5NckVhO4ODxxGq/j4I2jzlknGD6phrFuhHSe8LH+LRwJN+NGbB8wdbrjRCARNSwHQlBxEE2cgx7m+bQDipPuucySjA1JCYoLyilpLZgqfI=
+    properties :
+     y : 40.
+     width : 180.
+     height : 10.
+    code_elements :
+     type_code : 30
+     p_codes : []
+ controls : []
+ code_elements :
+  type_code : 13
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MonEtat()
+     type : 327680
+ code_parameters :
+  internal_properties : CAAAAAgAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  original_name : ETAT_SansNom1
+resources :
+ string_res :
+  identifier : 0x1351166b0057cafd
+  internal_properties : CAAAAAgAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
