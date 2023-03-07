@@ -22,8 +22,8 @@ window :
     identifier : 0x234d236d01f192ce
     internal_properties : CAAAAAgAAADpWgROsnjJA9j4YWOSmihNrrDsrSyz5QwIQh+OTWEndR9zcN57hONBD+KTjNMIWzfxjbkRMQWtxY8F58TXe+kXI6pyq/HwRBE7GdlKwvZUzwjFHYrA96an+k/Trc77cRbLwShhGHI5bn4fbnqkxpEUN5cerTqmKjfxWKiqe5dDvgb/Q1yooP00jpCWulnAVI1RTtDFXSs4IHhZGV+hf5phLUkn5Hn83nie22CuyRAFr7x1l7FSc25VzFdxbOo8hLsrW/ns+iBx43bbVg1tgVKO3tYWsVsJf7uw63RgzR00OLmpst62qrCI82zXIA8biuY5JrboraZhlfE4xqz7O6w+Ing02qzcQbOBQ52CCbyLA5rab7tuP3qyZxs0J/VeZxaj1X+44xRHwVr+dCkuEDGpRYxcnOtgof6gsFYNltGyrD11nbAz5T9CRxfKj03c1Uaa1QHNUVkBPSB+8gWS9I7W1lliBohETfiKbzzFjIZuRszriDEzEJ09Kvnchu7UQhzWI86F+cFyxMrOdpoiiJgdI8jGISD52Qo585ANgEQ3Dp2JPDUU5lBFrNUOt2/wQXYp+KrBztSc+fb4qz4PggC0w/3ulyKBbfwIXF/QK9YTD3dEQRTHgzAGKJDUqTn8JXkv1XbopR7qYPpDvN1R/sseoZGgQUuG02L7DPZfq5eVrgLrosIYw6WRdYuH9zkoBOcuWgjcIIJQH/q/c4rBwtVb8pV66x8rJT1Sphiz1TnAUyShrw0PH32odTyrWFuRUyGp7dGitXk4e6x5rK/FAWtBtcIoXNI16LAdgzHlJP0PecjoRJ4dW1X8jmvLgWgcbfVRKd32gYhwqT7alodI3Otx80eCKjCdhjwYohZ9RnFPMR4OJgHgCmStqKkiHIvwDNN03yZjUeqH4YOASA==
     properties :
-     x : 99
-     y : 72
+     x : 37
+     y : 56
      width : 80
      height : 24
     type : 4
@@ -31,8 +31,9 @@ window :
      type_code : 4
      p_codes :
       -
-        code : |1+
+        code : |1-
          //Code modifié
+         //Nouvelle modif
         type : 18
       -
         type : 161
@@ -40,10 +41,10 @@ window :
   -
     name : BTN_Renommé
     identifier : 0x2351161601137cb3
-    internal_properties : CAAAAAgAAAASoMQshQtfxXU2lJl5JNq9AiVckku7yjm26hgF+YWlEl96ZMZjg9LHRaPX3DJLRybQ8guNUi6MoIAwtGcX8yx4ACuDNlyfr1eGj1Lvxjv8d4Y2n24nNVzQ5/XQnNCnn0IoAbFBjMbA0MOGzVNo/iGNP/jIAJH4c+HG+wpOr8RRIiz7IKVH5AxcmM8OfPRYfZr/JD4pQFqh/j0HNQ2U7sDq+iJx/uBdtosKm3cMuz1cxxsSFhV4+w3MueoPkR89mod416kxEqCsxEw4KtZQZl3pvp2qmhtnhCetZJqKUNvWWebGVfBMzeM5RZOOeK2m0YmFk1xYV9TH8IZ57TvBudKEbXbpmsSdzX5zFSQRWLws47eicQVaVspDUPmiKsL3jOu+S6mSx+rlx2fBP2uE3+zLby2nsjDcBCyfcIu9kAKaE6+21Dw+CCU2mnL1jntPM2u9uY9wOi40NPNOX7gBunHQ1g81fpZS9msRpxVcZ9YbqobvQx2FeI5ouU0NhwvINxiIncNN1z+LcT/UX1klmiXlcWjRaZpx6vEA6QXg58LO7k8X42NkLjU4ExdT2gYyQMylTO1LenjT9iNylM0aYN9SS7dFP+jjbmkVxJaNHK6icxUMVjovk/NXyaA1hJi2SjevleW6UZC3n51L4YCQzhaSP20/E4f+zBMgPiX8HFG2FOod1yRAA26unu3W1uROLREOGt1CVFB/2ukDtIVIRg7vjFEtV9UlnAqPhBOO/AMjD6Ll4NMPu6axxBGGOjGOJ6xsNqYDGzptLZG+gRqWVno4a53fmtfeX0v5d3sdVEp2ffWxHRbJHbS5k1VodjHgIcGsqK8oxL/OY5dUjWSB72RLWwBcoL/wHwBD8o0lh0fZ9qQLvcQlFh871jjEKbmniXdgHg6WlMbVnPV7bmWYF10=
+    internal_properties : CAAAAAgAAACy9OzB9uMT6Gj/82eVIIl+x3aKexSiW6B5svnzP/EuQpSsHXsFyfB2dNMtA4kvmFAnPy+/dGzUbcXS8zU/QbJtdf3utyFXSYok1dxMoZqu75Ly7pi/dQ7SbAA3GNKhnNlPDOqnwUdShEn1YRH3xcTq4oMMTzmwYL+uHXt1EpNMgAU7U/1Bs3N74t6wGGAyUPKx69BoQq+ytokXJgM/FmS5kEDMPblEyt2A2n1nHk7XZ7d+T9JMAlsfJpzhDJmPRzRrvlm6RuruuMsb/a5/g31bqcZlSvZmhTqbh6m0uS9svTDnCs6CJTXi5o1TyRFJV2n2wmkY7ErMmhHuc10U7v+RKOOn32FQoHr06kWA8kAXZT+Grl9LqOlcxcneALyaLdViJH7nUkXOZADOBfUd0VtUy6zH+DNq+Nj68jVR97ZrHPYs/20m1Vg+n2KZyUjfJkYU7fMkIn1U9lWGi7PV28VMfiaCBD+RvHt1q/ULm2M3XHyGYDOikzbQ/WuvyFl/vfqOlkJpqvaR67laYfaxBfF3z392uUvK1AFkAanlz/2Iwg+m6GFJA5+WQds7XVrPfJxhRWDTL2FTnv/o7pw4v1kc6ZAsrW0o8olx6BZmzA+8cX9H9+RErlE/nXjR+xblpt9rVE5u3Ol7CzW9L1fqX1QAqcSwfUDvBiHeTJf3AhR6VoBmFhABCiIMHJn2gx4BQS0GN2BMbTndJmEJNi4ChyLLzAKQv5DmBpZ/pJ8rWI7Zb6YWR4c25Gjd9Enif8tJPZouocP5AvvT7UUSKQ+GQyRI5xLO3rAf5Zd56wP0RlkCQXkbHJxRpGxCfIHDo3Gq0JaumRALGej0KaJVSoAWHX94wsO8jydUm8TdIrloIwDOpTzDRzA4UKLvphrECF3el+fqxsfYLums+PA2+c0p
     properties :
-     x : 47
-     y : 170
+     x : 37
+     y : 103
      width : 80
      height : 24
     type : 4
